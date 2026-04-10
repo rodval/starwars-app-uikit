@@ -76,7 +76,7 @@ ViewController → ViewModel → Service → NetworkManager → QueryRequester �
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/starwars-app-uikit.git
+git clone https://github.com/rodval/starwars-app-uikit.git
 cd starwars-app-uikit
 ```
 
