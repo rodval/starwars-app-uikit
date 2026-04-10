@@ -4,12 +4,6 @@ A native iOS application that displays a list of Star Wars characters fetched fr
 
 ---
 
-## Screenshots
-
-> _Add screenshots here_
-
----
-
 ## Features
 
 - Browse a list of Star Wars characters
